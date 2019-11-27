@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         String ab = "Name";
         ab = ab;
         String Test = "Testing";
+        String abc = "";
     }
 
     @Override
